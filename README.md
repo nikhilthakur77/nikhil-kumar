@@ -5,9 +5,9 @@
 
   <br/>
 
-  <!-- Typing SVG -->
+  <!-- Role Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&width=620&lines=AWS+Certified+Cloud+Practitioner+%7C+AI%2FML+Developer+%7C+SDE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&width=620&lines=AWS+Certified+Cloud+Practitioner+%7C+Software+Engineer+%7C+Patent+Analyst" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -39,7 +39,7 @@
 
 ```yaml
 name: Nikhil Kumar
-role: AWS Certified Cloud Practitioner | Software Engineer | AI/ML Developer
+role: AWS Certified Cloud Practitioner | Software Engineer | Patent Analyst Aspirant
 education: B.Tech, Computer Science & Engineering - MIET Meerut (2023 - 2027)
 based_in: Meerut, Uttar Pradesh, India
-philosophy: "Architecting scalable cloud systems & engineering practical AI solutions."
+philosophy: "Evaluating complex technology inventions & engineering scalable cloud solutions."
